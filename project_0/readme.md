@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Этапы-работы-над-проектом)
-[5. Результаты](https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Результаты)
-[6. Выводы](https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Выводы)
+[1. Описание проекта](.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
+[5. Результат](.README.md#Результат)    
+[6. Выводы](.README.md#Выводы) 
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению]((https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Оглавление))
+:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -33,7 +33,7 @@
 ### Краткая информация о данных
 Случайное генерируемое натурально число от 1 до 100, которое необходимо найти.
 
-:arrow_up:[к оглавлению]((https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Оглавление))
+:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -42,7 +42,7 @@
 3. Оформление документации
 4. PROFIT!!!
 
-:arrow_up:[к оглавлению]((https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Оглавление))
+:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Результаты
@@ -50,10 +50,10 @@
 Угадывание с коррекцией: среднее число попыток - 32
 Деление отрезка пополам: среднее число попыток - 5
 
-:arrow_up:[к оглавлению]((https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Оглавление))
+:arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Выводы
 При текущих вводных алгоритм деления отрезка пополам является наилучшим вариантом поиска числа.
 
-:arrow_up:[к оглавлению]((https://github.com/venza88/DST_Project/blob/main/project_0/readme.md#Оглавление))
+:arrow_up:[к оглавлению](.README.md#Оглавление)
